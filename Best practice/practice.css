@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.d1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.d1 h1 {
+    font-family: sans-serif;
+}
+
+.d1 a {
+    margin: 0 15px;
+}
+
+.d2 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+}
+
+.d2 p {
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: grey;
+    width: 80%;
+}
+
+.d3 ul {
+    border: 1px solid black;
+    padding-left: 10px;
+}
+
+.d3 {
+    background-color: grey;
+    margin-top: 20px;
+    color: white;
+}
+
+.d3 ul li {
+    list-style: none;
+}
+table{ width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+table thead tr th{ 
+     border: 1px solid black;
+     padding: 5px 0;
+}
+table tbody tr td{
+    border:1px solid black ;
+    padding: 10px 0;
+    text-align: center;
+    
+}
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px double black;
+    margin: 4px 17px;
+    text-align: center;
+    padding: 20px 0;
+    
+}
+label{
+    font-weight: bold;
+    margin: 10px 0;
+    border: 1px solid black;
+    padding: 5px 7px;
+}
+input{
+    text-align: center;
+     padding: 5px 15px;   
+}
+.g1{
+    text-align: center;
+    margin-right: 10px;
+} 
+.m1{
+    font-size: small;
+    font-weight: 100;
+    
+    
+}
+.f1{
+    
+    font-size: small;
+    font-weight: 100;
+    
+}
+
+.gender{
+    text-align: center;
+    
+
+}
+button{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: orange;
+    color: black;
+    border-style: solid;
+    font-size: 18px;
+}
+.reset{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border-style: solid;
+}
